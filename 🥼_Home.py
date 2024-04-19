@@ -8,13 +8,13 @@ def home():
     st.image("img/logo.png")
     
     st.markdown(
-        '<p style="font-size:22px; text-align: center; color: black;font-size: 25px;">Improving Healthcare, Improving Lives, Bridging the gap between technology and health</p>',
+        '<p style="font-size:22px; text-align: center; color: black;font-size: 25px;">Connected Health, Connected Lives: Seamless Solutions for Every Step of the Journey</p>',
         unsafe_allow_html=True
     )
     st.markdown("---")
 
     st.markdown(
-        f"<p style='text-align: center; color: black; font-size: 20px'>💠 We provide digital health and healthcare solutions to help common people and health organizations power their care experience and improve health outcomes with advanced analytics</p>",
+        f"<p style='text-align: center; color: black; font-size: 20px'>💠 "Unlocking the Potential of Digital Health: Harnessing Technology, Personalized Solutions, and Advanced Analytics to Revolutionize Healthcare and Elevate Your Care Experience Today."</p>",
         unsafe_allow_html=True
     )
     st.markdown("---")
