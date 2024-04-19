@@ -25,7 +25,7 @@ def home():
     st.markdown("---")
 
     st.markdown(
-        f"<h2 style='text-align: center; color: black>Our Services</h2>",
+        f"<h2 style='text-align: center; color: black'>Our Services</h2>",
         unsafe_allow_html=True,
     )
     st.write("")
