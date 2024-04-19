@@ -15,3 +15,6 @@ def home():
         f"<p style='text-align: center; color: black; font-size: 20px'>💠 We provide digital health and healthcare solutions to help common people and health organizations power their care experience and improve health outcomes with advanced analytics</p>",
         unsafe_allow_html=True
     )
+
+if __name__ == "__main__":
+    home()
