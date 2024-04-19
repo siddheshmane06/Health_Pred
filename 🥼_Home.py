@@ -14,7 +14,7 @@ def home():
     st.markdown("---")
 
     st.markdown(
-        f"<p style='text-align: center; color: black; font-size: 20px'>💠 "Unlocking the Potential of Digital Health: Harnessing Technology, Personalized Solutions, and Advanced Analytics to Revolutionize Healthcare and Elevate Your Care Experience Today."</p>",
+        f"<p style='text-align: center; color: black; font-size: 20px'>Unlocking the Potential of Digital Health: Harnessing Technology, Personalized Solutions, and Advanced Analytics to Revolutionize Healthcare and Elevate Your Care Experience Today."</p>",
         unsafe_allow_html=True
     )
     st.markdown("---")
