@@ -25,7 +25,7 @@ def home():
     st.markdown("---")
 
     st.markdown(
-        f"<h2 style='text-align: center; color: yellow; background-color: black;'>Our Services</h2>",
+        f"<h2 style='text-align: center>Our Services</h2>",
         unsafe_allow_html=True,
     )
     st.write("")
@@ -41,9 +41,6 @@ def home():
         f"⚕️ **Liver Disease Detection** - Enter the patients attributes from the test report and check whether he/she have chances of any type of liver disease or not"
     )
 
-    st.markdown(
-        f"⚕️ **Malaria Detection** - Upload the microscopic cell-image of the patient and check whether the patient have chances of malaria"
-    )
     st.markdown(
         f"⚕️ **Pneumonia Detection** - Upload the chest X-ray image of the patient and check whether the patient have chances of Pneumonia"
     )
