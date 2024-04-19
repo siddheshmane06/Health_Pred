@@ -5,6 +5,9 @@ def home():
         page_title="HealthPred - Home",
         page_icon="👨‍⚕️",
     )
+    st.image("img/logo.png")
+    st.image("img\logo.png")
+    
     st.markdown(
         '<p style="font-size:22px; text-align: center; color: black;font-size: 25px;">Improving Healthcare, Improving Lives, Bridging the gap between technology and health</p>',
         unsafe_allow_html=True
