@@ -1,8 +1,3 @@
-It looks like you're encountering an indentation error in your Python code. In Python, indentation is crucial for indicating the structure of your code. In your case, the `st.markdown` calls inside the `home` function seem to have inconsistent indentation.
-
-Here's the corrected version of your code with consistent indentation:
-
-```python
 import streamlit as st
 
 def home():
@@ -22,6 +17,3 @@ def home():
     )
 
 home()  # Call the function to execute the code
-```
-
-Make sure all the lines inside the `home` function have the same level of indentation (typically 4 spaces or a tab). This should resolve the `IndentationError` you're encountering.
